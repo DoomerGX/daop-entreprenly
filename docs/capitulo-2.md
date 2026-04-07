@@ -13,7 +13,7 @@ _________________________________
 
 |             |Entreprenly | Odoo | Lightspeed Retail |
 |-------|------|----------|-------|
-| |<img src="images/entrepenly-icon-dark.png" width="200"> | <img src="images/coursera.png" width="200"> | <img src="images/udemy.png" width="200"> |
+| |<img src="images/entrepenly-icon-dark.png" width="200"> | <img src="images/Odoo.png" width="200"> | <img src="images/LightSpeedRetail.png" width="200"> |
 _________________________________
 ##### Perfil
 
@@ -42,7 +42,7 @@ _________________________________
 ##### Análisis SWOT
 |             |Entreprenly | Odoo | Lightspeed Retail |
 |-------------|------------|----------|-------|
-|Fortalezas|Centralización multicanal (WhatsApp + presencial), enfoque exclusivo en perecederos, modelo de costos accesible.|Sistema robusto, completo y altamente escalable con gran ecosistema de módulos y comunidad activa.|Facilidad de uso, agilidad en procesos de venta y control de inventario en punto de venta físico.|
+|Fortalezas|Centralización multicanal (WhatsApp + presencial),enfoque exclusivo en perecederos, modelo de costos accesible.|Sistema robusto, completo y altamente escalable con gran ecosistema de módulos y comunidad activa.|Facilidad de uso, agilidad en procesos de venta y control de inventario en punto de venta físico.|
 |Debilidades| Menor posicionamiento de marca frente a soluciones consolidadas.|Elevada complejidad de implementación y costos altos para pequeños negocios; requiere consultoría especializada.|Limitado a ventas presenciales; sin automatización avanzada de inventario ni integración nativa de canales digitales como WhatsApp.|
 |Oportunidades|Creciente digitalización de mercados tradicionales en el Perú y necesidad urgente de reducir desperdicio de alimentos frescos.|Expansión en mercados emergentes y demanda de digitalización empresarial a gran escala.|Adopción creciente de sistemas POS en el sector retail y apertura de nuevos locales físicos.
 |Amenazas|Competidores generalistas que incorporen funcionalidades de gestión de perecederos.|Nuevas soluciones más ligeras y accesibles dirigidas a pequeñas empresas.|Evolución hacia sistemas más integrados.|
